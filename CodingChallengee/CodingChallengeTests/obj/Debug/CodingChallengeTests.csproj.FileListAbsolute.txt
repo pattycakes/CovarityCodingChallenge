@@ -1,0 +1,8 @@
+D:\VS Projects\Covarity\CodingChallengee\CodingChallengeTests\obj\Debug\CodingChallengeTests.csprojResolveAssemblyReference.cache
+D:\VS Projects\Covarity\CodingChallengee\CodingChallengeTests\bin\Debug\CodingChallengeTests.dll
+D:\VS Projects\Covarity\CodingChallengee\CodingChallengeTests\bin\Debug\CodingChallengeTests.pdb
+D:\VS Projects\Covarity\CodingChallengee\CodingChallengeTests\bin\Debug\CodingChallengee.exe
+D:\VS Projects\Covarity\CodingChallengee\CodingChallengeTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\VS Projects\Covarity\CodingChallengee\CodingChallengeTests\bin\Debug\CodingChallengee.pdb
+D:\VS Projects\Covarity\CodingChallengee\CodingChallengeTests\obj\Debug\CodingChallengeTests.dll
+D:\VS Projects\Covarity\CodingChallengee\CodingChallengeTests\obj\Debug\CodingChallengeTests.pdb

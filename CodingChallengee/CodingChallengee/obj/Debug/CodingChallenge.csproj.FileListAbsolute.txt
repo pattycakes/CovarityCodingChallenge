@@ -1,0 +1,14 @@
+D:\VS Projects\Covarity\CodingChallengee\CodingChallengee\bin\Debug\CodingChallengee.exe.config
+D:\VS Projects\Covarity\CodingChallengee\CodingChallengee\obj\Debug\CodingChallenge.csprojResolveAssemblyReference.cache
+D:\VS Projects\Covarity\CodingChallengee\CodingChallengee\obj\Debug\MainWindow.g.cs
+D:\VS Projects\Covarity\CodingChallengee\CodingChallengee\obj\Debug\App.g.cs
+D:\VS Projects\Covarity\CodingChallengee\CodingChallengee\obj\Debug\CodingChallengee_MarkupCompile.cache
+D:\VS Projects\Covarity\CodingChallengee\CodingChallengee\obj\Debug\CodingChallengee_MarkupCompile.lref
+D:\VS Projects\Covarity\CodingChallengee\CodingChallengee\bin\Debug\CodingChallengee.exe
+D:\VS Projects\Covarity\CodingChallengee\CodingChallengee\bin\Debug\CodingChallengee.pdb
+D:\VS Projects\Covarity\CodingChallengee\CodingChallengee\obj\Debug\MainWindow.baml
+D:\VS Projects\Covarity\CodingChallengee\CodingChallengee\obj\Debug\CodingChallengee.g.resources
+D:\VS Projects\Covarity\CodingChallengee\CodingChallengee\obj\Debug\CodingChallengee.Properties.Resources.resources
+D:\VS Projects\Covarity\CodingChallengee\CodingChallengee\obj\Debug\CodingChallenge.csproj.GenerateResource.Cache
+D:\VS Projects\Covarity\CodingChallengee\CodingChallengee\obj\Debug\CodingChallengee.exe
+D:\VS Projects\Covarity\CodingChallengee\CodingChallengee\obj\Debug\CodingChallengee.pdb
